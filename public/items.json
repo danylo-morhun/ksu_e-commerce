@@ -1,0 +1,114 @@
+[
+  {
+    "category": 0,
+    "title": "Intel Core i5",
+    "img": "img/items/intel.svg",
+    "desc": "This is Core i5 processor by Intel.",
+    "price": 1200
+  },
+  {
+    "category": 0,
+    "title": "BenQ Zowie XL2546K",
+    "img": "img/items/zowie.svg",
+    "desc": "This is Zowie XL2546K monitor by BenQ.",
+    "price": 900
+  },
+  {
+    "category": 1,
+    "title": "Bauer Supreme 3S",
+    "img": "img/items/bauer.svg",
+    "desc": "This is Supreme 3S hockey stick by Bauer.",
+    "price": 150
+  },
+  {
+    "category": 1,
+    "title": "Adidas Al Rihla",
+    "img": "img/items/adidas.svg",
+    "desc": "This is Al Rihla soccer ball by Adidas",
+    "price": 20
+  },
+  {
+    "category": 2,
+    "title": "Green Apples",
+    "img": "img/items/apples.svg",
+    "desc": "This is just a green apples. By some gardener.",
+    "price": 0.5
+  },
+  {
+    "category": 2,
+    "title": "Nuts",
+    "img": "img/items/nuts.svg",
+    "desc": "This is Nuts chocolate bar by Nestle.",
+    "price": 0.25
+  },
+  {
+    "category": 3,
+    "title": "Lego City",
+    "img": "img/items/lego.svg",
+    "desc": "This is Lego City set. By Lego by the way.",
+    "price": 30
+  },
+  {
+    "category": 3,
+    "title": "Barbie doll",
+    "img": "img/items/doll.svg",
+    "desc": "This is a children's doll by Barbie.",
+    "price": 15
+  },
+  {
+    "category": 4,
+    "title": "Whiskas",
+    "img": "img/items/whiskas.svg",
+    "desc": "This is a cat's food by Whiskas.",
+    "price": 1
+  },
+  {
+    "category": 4,
+    "title": "Dog leash",
+    "img": "img/items/leash.svg",
+    "desc": "This is a dog leash by some company.",
+    "price": 2
+  },
+  {
+    "category": 5,
+    "title": "Frank Sinatra's album",
+    "img": "img/items/sinatra.svg",
+    "desc": "This is a music album by Frank Sinatra",
+    "price": 15
+  },
+  {
+    "category": 5,
+    "title": "Casio CTK-240",
+    "img": "img/items/piano.svg",
+    "desc": "This is a piano keyboard by Casio.",
+    "price": 100
+  },
+  {
+    "category": 6,
+    "title": "Bosch Dishwasher",
+    "img": "img/items/dishwasher.svg",
+    "desc": "This is dishwasher by Bosch.",
+    "price": 300
+  },
+  {
+    "category": 6,
+    "title": "LG Washing Machine",
+    "img": "img/items/washing.svg",
+    "desc": "This is a washing machine by LG.",
+    "price": 450
+  },
+  {
+    "category": 7,
+    "title": "Claw Hammer",
+    "img": "img/items/hammerl.svg",
+    "desc": "This is a claw hammer by some company.",
+    "price": 10
+  },
+  {
+    "category": 7,
+    "title": "Wrench Set",
+    "img": "img/items/wrench.svg",
+    "desc": "This is a wrench set by some company.",
+    "price": 20
+  }
+]

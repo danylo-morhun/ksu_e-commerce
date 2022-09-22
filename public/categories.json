@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title": "PC Hardware",
+    "img": "img/pc_hardware.svg",
+    "link": "/category/pc"
+  },
+  {
+    "id": 1,
+    "title": "Sport",
+    "img": "img/sport.svg",
+    "link": "/category/sport"
+  },
+  {
+    "id": 2,
+    "title": "Food",
+    "img": "img/food.svg",
+    "link": "/category/food"
+  },
+  {
+    "id": 3,
+    "title": "Toys",
+    "img": "img/toys.svg",
+    "link": "/category/toys"
+  },
+  {
+    "id": 4,
+    "title": "Pets",
+    "img": "img/pets.svg",
+    "link": "/category/pets"
+  },
+  {
+    "id": 5,
+    "title": "Music",
+    "img": "img/music.svg",
+    "link": "/category/music"
+  },
+  {
+    "id": 6,
+    "title": "Appliances",
+    "img": "img/appliances.svg",
+    "link": "/category/appliances"
+  },
+  {
+    "id": 7,
+    "title": "Tools",
+    "img": "img/tools.svg",
+    "link": "/category/tools"
+  }
+]
