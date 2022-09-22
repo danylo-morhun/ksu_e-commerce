@@ -13,3 +13,49 @@
 body {
   overflow-x: hidden;
 }
+
+.card-flex {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 40px;
+  grid-row-gap: 30px;
+
+  .card {
+    padding: 10px;
+    transition: all 0.2s linear;
+    cursor: pointer;
+    background-color: #b3bdf534;
+    border-radius: 15px;
+
+    &__bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    &:hover {
+      transform: scale(1.02);
+      background-color: #8d9cf473;
+    }
+
+    button {
+      margin-top: 5px;
+      width: 100px;
+      height: 32px;
+      background-color: #8d9cf4;
+      border: none;
+      border-radius: 8px;
+      color: white;
+      font-size: 18px;
+      cursor: pointer;
+    }
+
+    h3,
+    p,
+    button {
+      font-family: Manrope;
+    }
+  }
+}

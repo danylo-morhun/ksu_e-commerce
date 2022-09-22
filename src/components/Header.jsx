@@ -5,23 +5,17 @@ export default function Header() {
     <header>
       <div className="header__left">
         <div className="header__logo">
-          <img
-            width={100}
-            height={100}
-            src="img/main_logo.svg"
-            alt="Логотип"
-          />
+          <img width={100} height={100} src="img/main_logo.svg" alt="Логотип" />
         </div>
         <ul className="header__nav">
-          <li>Новини</li>
-          <li>Історія</li>
-          <li>Структура</li>
-          <li>Контакти</li>
+          <li>CATEGORIES</li>
+          <li>CONTACTS</li>
+          <li>FAQ</li>
         </ul>
       </div>
       <ul className="header__auth">
-        <li>Увійти</li>
-        <li>Реєстрація</li>
+        <li>SIGN IN</li>
+        <li>SIGN UP</li>
       </ul>
     </header>
   );

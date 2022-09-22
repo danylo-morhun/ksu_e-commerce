@@ -1,54 +1,54 @@
 li {
-    font-family: "Montserrat", open-sans;
-    color: #2e363e;
+  font-family: Manrope;
+  color: #2e363e;
 }
 
 body {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 header {
-    margin-top: 35px;
+  margin-top: 35px;
+  display: flex;
+  justify-content: space-between;
+  .header__left {
     display: flex;
-    justify-content: space-between;
-    .header__left {
-        display: flex;
-        img {
-            cursor: pointer;
-        }
-        .header__nav {
-            display: flex;
-            align-items: center;
-            margin-left: 45px;
-            li {
-                font-weight: 600;
-                font-size: 21px;
-                transition: all 0.2s linear;
-                cursor: pointer;
-                &:not(:first-child) {
-                    margin-left: 30px;
-                }
-                &:hover {
-                    color: #6da59a;
-                }
-            }
-        }
+    img {
+      cursor: pointer;
     }
-    .header__auth {
-        display: flex;
-        align-items: center;
-        li {
-            font-size: 16px;
-            font-weight: 425;
-            transition: all 0.2s linear;
-            cursor: pointer;
-            &:last-child {
-                margin-left: 20px;
-            }
-            &:hover {
-                color: #6da59a;
-            }
+    .header__nav {
+      display: flex;
+      align-items: center;
+      margin-left: 45px;
+      li {
+        font-weight: 600;
+        font-size: 21px;
+        transition: all 0.2s linear;
+        cursor: pointer;
+        &:not(:first-child) {
+          margin-left: 30px;
         }
+        &:hover {
+          color: #8d9cf4;
+        }
+      }
     }
+  }
+  .header__auth {
+    display: flex;
+    align-items: center;
+    li {
+      font-size: 16px;
+      font-weight: 425;
+      transition: all 0.2s linear;
+      cursor: pointer;
+      &:last-child {
+        margin-left: 20px;
+      }
+      &:hover {
+        color: #8d9cf4;
+      }
+    }
+  }
 }
